@@ -56,7 +56,7 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 
 ![Alt text](<../../image/Screenshot at 2025-09-24 17-21-11.png>)
 
@@ -134,7 +134,7 @@ int main() {
 
 
 
-##OUTPUT
+## OUTPUT
 
 ![Alt text](<../../image/Screenshot at 2025-09-24 17-25-12.png>)
 
